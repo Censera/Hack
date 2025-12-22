@@ -1,3 +1,8 @@
+// RAM[2] = RAM[0] + RAM[1]
+// Adds up two numbers from the RAM 
+// RAM[0] and RAM[1] have the value 0
+// You need to change their value manually
+
 @0
 D=M // D = RAM[0]
 
