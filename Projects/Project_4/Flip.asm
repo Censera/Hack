@@ -1,4 +1,4 @@
-// Swap to values from RAM[0] and RAM[1]
+// Swap two values from RAM[0] and RAM[1]
 
 // tmp = R1
 // R1  = R0
